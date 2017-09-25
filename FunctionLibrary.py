@@ -1,4 +1,4 @@
-## radius function library
+## function library
 
 import os,shutil, glob, csv, unidecode
 from unidecode import unidecode
